@@ -1,4 +1,4 @@
 <h1>Calculator</h1>
-This is my first website.
+This is my first website
 <br>
-This is a calculator website.
+This is a calculator website
